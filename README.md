@@ -30,5 +30,3 @@ away by reading the plain text and comparing it with the original one.
 ![image](https://user-images.githubusercontent.com/90801747/198146065-91be8dc3-b0f4-47e6-af4a-e2a8fd9f99eb.png)
 ![image](https://user-images.githubusercontent.com/90801747/198146128-85aa18ef-650f-4a9b-8aac-df6f870d459e.png)
 ![image](https://user-images.githubusercontent.com/90801747/198146306-5a0e3049-7363-4bb8-bfc3-039144bd7001.png)
-![image](https://user-images.githubusercontent.com/90801747/198146361-cb6b0ebe-30ea-42f9-a116-146f84ad0d5f.png)
-![image](https://user-images.githubusercontent.com/90801747/198148720-3aebecde-bfc9-442f-959f-8477ab9ecc5f.png)
